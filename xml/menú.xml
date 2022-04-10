@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="Ensaladas">
+        <nombre>Ensalada Cesar</nombre>
+        <precio>6.50€</precio>
+        <descripcion>Ensalada con cherrys, salsa cesar y pollo</descripcion>
+        <calorias>625kcal</calorias>
+        <caracteristcias>
+           <item>img\alergenos\Gluten.png </item>
+           <item>img\alergenos\huevos.png </item>
+            <item>img\alergenos\pescado.png </item>
+            <item>img\alergenos\lacteos.png </item>
+            <item>img\alergenos\sulfitos.png </item>
+            
+        </caracteristcias>
+    </plato>
+        <plato tipo="Ensaladas">
+        <nombre>Ensalada Mixta</nombre>
+        <precio>5.75€</precio>
+        <descripcion>Ensalada con cherrys, olivas y atún</descripcion>
+        <calorias>425kcal</calorias>
+        <caracteristcias>
+            <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\pescado.png </item>
+           
+        </caracteristcias>
+    </plato>
+        <plato tipo="Ensaladas">
+        <nombre>Ensalada Clasica</nombre>
+        <precio>4.50€</precio>
+        <descripcion>Ensalada con maiz, olivas y atún</descripcion>
+        <calorias>383 kcal</calorias>
+        <caracteristcias>
+        <item>img\alergenos\Gluten.png </item>
+        </caracteristcias>
+    </plato>
+        <plato tipo="Ensaladas">
+        <nombre>Ensalada de pasta</nombre>
+        <precio>7.00€</precio>
+        <descripcion>Ensalada de pasta con queso, cherrys y pesto</descripcion>
+        <calorias>555kcal</calorias>
+        <caracteristcias>
+          <item>img\alergenos\Gluten.png </item>
+          <item>img\alergenos\huevos.png </item>
+           
+        </caracteristcias>
+    </plato>
+    <plato tipo="Pastas">
+        <nombre>Raviolis de carne</nombre>
+        <precio>8.20€</precio>
+        <descripcion>Raviolis de carne con salsa a elegir (tomate,pesto,veixamell)</descripcion>
+        <calorias>406kcal</calorias>
+        <caracteristcias>
+         <item>img\alergenos\Gluten.png </item>
+         <item>img\alergenos\huevos.png </item>
+         <item>img\alergenos\lacteos.png </item>
+
+        </caracteristcias>
+    </plato>
+    <plato tipo="Pastas">
+        <nombre>Spaguettis</nombre>
+        <precio>8.00€</precio>
+        <descripcion>Spaguettis con salsa a elegir (tomate, pesto, carbonara, tinta negra)</descripcion>
+        <calorias>380kcal</calorias>
+        <caracteristcias>
+        <item>img\alergenos\huevos.png </item>
+         <item>img\alergenos\lacteos.png </item>
+        </caracteristcias>
+    </plato>
+     <plato tipo="Pastas">
+        <nombre>Macarrones</nombre>
+        <precio>8€</precio>
+        <descripcion>Macarrones con salsa a elegir (tomate, pesto, carbonara, tinta negra)</descripcion>
+        <calorias>465kcal</calorias>
+        <caracteristcias>
+        <item>img\alergenos\huevos.png </item>
+         <item>img\alergenos\lacteos.png </item>
+        </caracteristcias>
+    </plato>
+    <plato tipo="Pizzas">
+        <nombre>Carbonara</nombre>
+        <precio>9.50€</precio>
+        <descripcion>Mozarrella, bacon y nata</descripcion>
+        <calorias>360kcal</calorias>
+        <caracteristcias>
+            <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\lacteos.png </item>
+        </caracteristcias>
+    </plato>
+     <plato tipo="Pizzas">
+        <nombre>Cuatro estaciones</nombre>
+        <precio>10.50€</precio>
+        <descripcion>tomate, mozarrella, jamón, cahmpiñones y olivas</descripcion>
+        <calorias>249 kcal</calorias>
+        <caracteristcias>
+            <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\huevos.png </item>
+          <item>img\alergenos\lacteos.png </item>
+        </caracteristcias>
+    </plato>
+    <plato tipo="Pizzas">
+        <nombre>Cuatro quesos</nombre>
+        <precio>9.50€</precio>
+        <descripcion>tomate, mozarrella, roquefort, provolone y parmesano</descripcion>
+        <calorias>278kcal</calorias>
+        <caracteristcias>
+        <item>img\alergenos\Gluten.png </item>
+          <item>img\alergenos\huevos.png </item>
+          <item>img\alergenos\lacteos.png </item>
+        </caracteristcias>
+    </plato>
+ 
+    <plato tipo="Pizzas">
+        <nombre>Boloñesa</nombre>
+        <precio>8.50€</precio>
+        <descripcion>Tomate, mozarrella y carne boloñesa </descripcion>
+        <calorias>389 kcal</calorias>
+        <caracteristcias>
+            <item>img\alergenos\Gluten.png </item>
+        </caracteristcias>
+    </plato>
+
+    <plato tipo="Pizzas">
+        <nombre>Angel</nombre>
+        <precio>11.50€</precio>
+        <descripcion>Tomate, mozarrella, bacon, huevo, anchoas </descripcion>
+        <calorias>389 kcal</calorias>
+        <caracteristcias>
+            <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\huevos.png </item>
+          <item>img\alergenos\lacteos.png </item>
+        </caracteristcias>
+    </plato>
+
+    <plato tipo="Pizzas">
+        <nombre>Barbacoa</nombre>
+        <precio>10.50€</precio>
+        <descripcion>Tomate, mozarrella y carne boloñesa </descripcion>
+        <calorias>335kcal</calorias>
+        <caracteristcias>
+            <item>img\alergenos\Gluten.png </item>
+        </caracteristcias>
+    </plato>
+
+ <plato tipo="Carne">
+        <nombre>Entrecot</nombre>
+        <precio>11.50€</precio>
+        <descripcion>Entrecot a la brasa con guarnición (ensalada o patatas y pimineto verde ) </descripcion>
+        <calorias>795kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+        </caracteristcias>
+    </plato>
+ <plato tipo="Carne">
+        <nombre>Lomo</nombre>
+        <precio>9.50€</precio>
+        <descripcion>Lomo a la plancha con guarnición (ensalada o patatas y pimineto verde)</descripcion>
+        <calorias>968kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+        </caracteristcias>
+    </plato>
+ <plato tipo="Carne">
+        <nombre>Escalpoa</nombre>
+        <precio>10.50€</precio>
+        <descripcion>Escalopa de ternera o pollo con guarnición (ensalada o patatas y pimineto verde)</descripcion>
+        <calorias>545kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+        </caracteristcias>
+    </plato>
+ <plato tipo="Carne">
+        <nombre>Butifarra</nombre>
+        <precio>9.50€</precio>
+        <descripcion>Butifarra a la brasa con guarnición (ensalada o patatas y pimineto verde) </descripcion>
+        <calorias>714kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+        
+        </caracteristcias>
+    </plato>
+ <plato tipo="Pescados">
+        <nombre>Salmon Noruego</nombre>
+        <precio>11.50€</precio>
+        <descripcion>Salmon noruego fresco con guarnición (ensalada o patatas panaderas y gisantes)</descripcion>
+        <calorias>435kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\pescado.png </item>
+        
+        </caracteristcias>
+    </plato>
+     <plato tipo="Pescados">
+        <nombre>Sepeias</nombre>
+        <precio>10.50€</precio>
+        <descripcion>Sepias con guarnición (ensalada o patatas patatas y gisantes) </descripcion>
+        <calorias>636kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\pescado.png </item>
+        
+        </caracteristcias>
+    </plato>
+     <plato tipo="Pescados">
+        <nombre>Doradas</nombre>
+        <precio>10.50€</precio>
+        <descripcion>Dorada a la planca con guarnición (ensalada o patatas panaderas y gisantes) </descripcion>
+        <calorias>305kcal</calorias>
+        <caracteristcias>
+        
+           <item>img\alergenos\pescado.png </item>
+        
+        </caracteristcias>
+    </plato>
+     <plato tipo="Postres">
+        <nombre>Fruta</nombre>
+        <precio>2.50€</precio>
+        <descripcion>Fruta de temporada </descripcion>
+        <calorias>30kcal</calorias>
+        <caracteristcias>
+         
+        </caracteristcias>
+    </plato>
+     <plato tipo="Postres">
+        <nombre>Flan con nata</nombre>
+        <precio>4.50€</precio>
+        <descripcion>Flan con nata y chocolate </descripcion>
+        <calorias>348kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\lacteos.png </item>
+        
+        </caracteristcias>
+    </plato>
+     <plato tipo="Postres">
+        <nombre>Tarta</nombre>
+        <precio>5.50€</precio>
+        <descripcion>Tarta (fresa, limon, chocolate o queso) </descripcion>
+        <calorias>321kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\lacteos.png </item>
+        
+        </caracteristcias>
+    </plato>
+     <plato tipo="Postres">
+        <nombre>Helado</nombre>
+        <precio>4€</precio>
+        <descripcion>Helado casero (chocolate, café, nata, limon, fresa) </descripcion>
+        <calorias>220kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\lacteos.png </item>
+        
+        </caracteristcias>
+    </plato>
+      <plato tipo="MI">
+        <nombre>Macarrones</nombre>
+        <precio>6€</precio>
+        <descripcion>Macarrones con tomate y queso</descripcion>
+        <calorias>380kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+            <item>img\alergenos\lacteos.png </item>
+        
+        </caracteristcias>
+          <plato tipo="MI">
+        <nombre>Carne con patatas</nombre>
+        <precio>6€</precio>
+        <descripcion>Carne a elegir y patatas (Lomo, Escalopa, Butifarra) </descripcion>
+        <calorias>425kcal</calorias>
+        <caracteristcias>
+        
+          <item>img\alergenos\Gluten.png </item>
+        
+        </caracteristcias>
+        
+    </plato>
+    </plato>
+ 
+
+
+
+
+
+
+</menu>
